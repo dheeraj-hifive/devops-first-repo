@@ -1,0 +1,1 @@
+testing git stash. This file is created on branch1, this branch will be stashed and the results should be that changes done on this branch after git stash should not be seen on master branch
